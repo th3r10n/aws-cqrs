@@ -1,0 +1,8 @@
+.UserOutput {
+    width: 60%
+}
+
+.UserOutput p {
+    border: 5px;
+    text-align: center
+}
