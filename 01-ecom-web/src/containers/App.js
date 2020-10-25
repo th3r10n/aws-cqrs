@@ -10,7 +10,7 @@ class App extends Component {
   
   render() {
     return (
-      <div className="tab-content">
+      <div className="container">
         <Products/>
         <br/>
 				<br/>
